@@ -21,7 +21,6 @@ body {
   border-bottom: 1px solid #e0e0e0;
 }
 
-/* Baris atas: kiri | logo tengah | kanan */
 .nav-top {
   display: flex;
   align-items: center;
@@ -100,7 +99,6 @@ body {
   font-weight: 500;
 }
 
-/* Baris bawah: kategori pill */
 .nav-bottom {
   display: flex;
   align-items: center;
