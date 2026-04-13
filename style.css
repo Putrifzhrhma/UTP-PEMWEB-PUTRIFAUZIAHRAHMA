@@ -46,7 +46,6 @@ body {
   gap: 0.5rem;
 }
 
-/* Search bar */
 .nav-search {
   display: flex;
   align-items: center;
