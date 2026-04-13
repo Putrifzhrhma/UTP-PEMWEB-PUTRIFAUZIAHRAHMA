@@ -1,11 +1,4 @@
-/* ============================================
-   BLOC. STREETWEAR — CSS
-   Hanya materi modul: styling, font, color,
-   margin, padding, display, selector,
-   pseudo-class, position, float, box-shadow
-   ============================================ */
-
-* {
+{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -18,10 +11,6 @@ body {
   font-size: 15px;
   line-height: 1.6;
 }
-
-/* ============================================
-   NAVBAR — dua baris: atas & bawah
-   ============================================ */
 #navbar {
   position: fixed;
   top: 0;
@@ -143,10 +132,6 @@ body {
   color: #ffffff;
   border-color: #111111;
 }
-
-/* ============================================
-   BUTTONS
-   ============================================ */
 .btn-primary {
   display: inline-block;
   padding: 0.7rem 1.75rem;
@@ -194,10 +179,6 @@ body {
   font-family: 'DM Sans', sans-serif;
   margin-top: 0.5rem;
 }
-
-/* ============================================
-   PAGE HERO — judul tengah, tanpa garis bawah
-   ============================================ */
 .page-main {
   padding-top: 96px;
 }
@@ -238,10 +219,6 @@ body {
   color: #111111;
   margin-bottom: 1.5rem;
 }
-
-/* ============================================
-   HERO — index.html
-   ============================================ */
 .hero {
   display: flex;
   align-items: center;
@@ -296,9 +273,6 @@ body {
   background-color: #e0e0e0;
 }
 
-/* ============================================
-   FEATURED — index.html
-   ============================================ */
 .featured {
   padding: 4rem 8%;
   background-color: #f5f5f3;
@@ -336,9 +310,6 @@ body {
   gap: 1.5rem;
 }
 
-/* ============================================
-   PRODUCT CARD
-   ============================================ */
 .product-card {
   flex: 1;
   background-color: #ffffff;
@@ -393,10 +364,6 @@ body {
   color: #111111;
   margin-bottom: 1rem;
 }
-
-/* ============================================
-   INFO STRIP — index.html
-   ============================================ */
 .info-strip {
   display: flex;
   border-top: 1px solid #e0e0e0;
@@ -428,9 +395,6 @@ body {
   color: #888888;
 }
 
-/* ============================================
-   CATALOG GRID — collection.html
-   ============================================ */
 .catalog-section {
   padding: 2.5rem 8% 5rem;
   background-color: #f5f5f3;
@@ -447,9 +411,6 @@ body {
   flex: none;
 }
 
-/* ============================================
-   LOOKBOOK PAGE
-   ============================================ */
 .look-section {
   padding: 4rem 8%;
   border-bottom: 1px solid #e0e0e0;
@@ -560,9 +521,6 @@ body {
   color: #111111;
 }
 
-/* ============================================
-   SIZE GUIDE PAGE
-   ============================================ */
 .guide-section {
   padding: 3rem 8%;
   border-bottom: 1px solid #e0e0e0;
@@ -648,10 +606,6 @@ body {
   color: #888888;
   line-height: 1.65;
 }
-
-/* ============================================
-   ORDER PAGE
-   ============================================ */
 .order-layout {
   display: flex;
   gap: 3rem;
@@ -839,9 +793,6 @@ body {
   color: #ffffff;
 }
 
-/* ============================================
-   FOOTER
-   ============================================ */
 .footer {
   padding: 2rem 8%;
   border-top: 1px solid #e0e0e0;
